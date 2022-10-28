@@ -1,9 +1,3 @@
-/*
- Yazan Hajsaid
- Jiant Li
- Programming Assignment 7
- CSC 222
- */
 
 import java.text.DecimalFormat;
 import java.util.*;
