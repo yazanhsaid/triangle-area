@@ -1,11 +1,5 @@
-/*
- Yazan Hajsaid
- Jiant Li
- Programming Assignment 7
- CSC 222
- */
 
-public class ProgrammingAssignment7 {
+public class output {
 
 	public static void main(String[] args) {
 		
